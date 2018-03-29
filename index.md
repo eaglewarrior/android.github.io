@@ -26,6 +26,9 @@ Start with: 1) Android Basics: User Interface
 
 5)Android Basics: Data Storage
 
+
+![android](10androidappstomakeyourlifeeasier-580x358.jpg)
+
 After this, your basic knowledge of Android development will be strong enough to start your development journey in approximately 2 months if you are up to it then and if u get stuck in some error just copy paste that on google and you will get the solution.
 
 And if you are the one who is not comfortable with MOOCs and videos I have a guide for you all too
