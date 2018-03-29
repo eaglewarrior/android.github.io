@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## A Comprehensive guide to Begineer’s for android development
 
-You can use the [editor on GitHub](https://github.com/eaglewarrior/android.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hey guys techno here.Today’s article will be on an Android development well, there are many androids development tutorial available on the internet and but sometimes too much of resources would bring a flood on one’s mind but ye here comes an article that won’t let you drown in this ocean of resources.iles.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Well, I won’t bore you all with series of videos or written tutorials and say you follow me for series of tutorial and blahh blahhhh  .
 
-### Markdown
+But will give you a step by step guide like how could one start his/her journey in android world yeeyee yusss!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Firstly set up android on your system you can get it from here and set up too
 
-```markdown
-Syntax highlighted code block
+https://developer.android.com/studio/install.html
 
-# Header 1
-## Header 2
-### Header 3
+TIP: I recommend Ubuntu,as windows causes many issues and a system with at least 4gb ram,64 bit and please guys don’t use emulator even experts don’t recommend it connect your system with ur android mobile with usb and set your mobile to developer mode here is a link to check out https://www.digitaltrends.com/mobile/how-to-get-developer-options-on-android/      and run your app using our phone.
 
-- Bulleted
-- List
+###GET STARTED
 
-1. Numbered
-2. List
+Then you can start with Udacity Android courses see the android section https://www.udacity.com/google
 
-**Bold** and _Italic_ and `Code` text
+Start with: 1) Android Basics: User Interface
 
-[Link](url) and ![Image](src)
-```
+2)Android Basics: User Input
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3)Android Basics: Multi-Screen Apps
 
-### Jekyll Themes
+4)Android Basics: Networking
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eaglewarrior/android.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5)Android Basics: Data Storage
 
-### Support or Contact
+After this, your basic knowledge of Android development will be strong enough to start your development journey in approximately 2 months if you are up to it then and if u get stuck in some error just copy paste that on google and you will get the solution.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And if you are the one who is not comfortable with MOOCs and videos I have a guide for you all too
+
+https://drive.google.com/file/d/1zrDtyrUm8Ut4UAhyq3Zf4omTL06oMYzD/view?usp=sharing
+
+If you want a cheatsheet here you go https://drive.google.com/file/d/1i7P0j-ZbWAI6Q-TeG1hCzJxpq-xqod42/view?usp=sharing
+
+
+
+Well thanks for reading see you soon
+Till the share, this article as sharing is caring and like & subscribe   my blog
+See you soon till then be tecky be geekier.
